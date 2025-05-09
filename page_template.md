@@ -24,7 +24,8 @@ My interests include transportation engineering and `Python programming`.
 ## Projects
 
 ### Project 1: Statics Problems Using Python
-![Screenshot of project](images/project1.png)  
+![image](https://github.com/user-attachments/assets/71b9c5dc-1c64-49af-9c69-72333314fb24)
+(images/project1.png)  
 Python tools were used to develop code that could take provided numbers and solve statics equations. These were then checked with given solutions.
 
 [View the code](https://github.com/yourusername/project1)
@@ -32,7 +33,8 @@ Python tools were used to develop code that could take provided numbers and solv
 ---
 
 ### Project 2: NHTS Data Analysis
-![image](https://github.com/user-attachments/assets/1c72ca7a-b8d4-4008-8417-419d2e9e32d9)
+![image]
+(https://github.com/user-attachments/assets/1c72ca7a-b8d4-4008-8417-419d2e9e32d9)
 Data given from the NHTS dataset was cleaned and organized to have a better understanding of the given information. Graphs were created to visualize this data
 
 ---
