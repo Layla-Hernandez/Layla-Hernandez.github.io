@@ -23,17 +23,17 @@ My interests include transportation engineering and `Python programming`.
 
 ## Projects
 
-### Project 1: Title of Your Project
+### Project 1: Statics Problems Using Python
 ![Screenshot of project](images/project1.png)  
-*Brief description of the project goes here. Include what tools/languages you used and what the outcome was.*
+Python tools were used to develop code that could take provided numbers and solve statics equations. These were then checked with given solutions.
 
 [View the code](https://github.com/yourusername/project1)
 
 ---
 
-### Project 2: Another Project
-![Placeholder image](images/project2.jpg)  
-*A short description of this project. What problem did it solve? What did you learn?*
+### Project 2: NHTS Data Analysis
+![image](https://github.com/user-attachments/assets/1c72ca7a-b8d4-4008-8417-419d2e9e32d9)
+Data given from the NHTS dataset was cleaned and organized to have a better understanding of the given information. Graphs were created to visualize this data
 
 ---
 
