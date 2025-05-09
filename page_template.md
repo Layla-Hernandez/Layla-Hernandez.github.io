@@ -33,8 +33,7 @@ Python tools were used to develop code that could take provided numbers and solv
 ---
 
 ### Project 2: NHTS Data Analysis
-![image]
-(https://github.com/user-attachments/assets/1c72ca7a-b8d4-4008-8417-419d2e9e32d9)
+![image](https://github.com/user-attachments/assets/1c72ca7a-b8d4-4008-8417-419d2e9e32d9)
 Data given from the NHTS dataset was cleaned and organized to have a better understanding of the given information. Graphs were created to visualize this data
 
 ---
