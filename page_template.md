@@ -24,8 +24,8 @@ My interests include transportation engineering and `Python programming`.
 ## Projects
 
 ### Project 1: Statics Problems Using Python
-(https://github.com/user-attachments/assets/71b9c5dc-1c64-49af-9c69-72333314fb24)
-(images/project1.png)  
+![image](https://github.com/user-attachments/assets/71b9c5dc-1c64-49af-9c69-72333314fb24)
+
 Python tools were used to develop code that could take provided numbers and solve statics equations. These were then checked with given solutions.
 
 
