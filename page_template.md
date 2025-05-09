@@ -1,4 +1,4 @@
-# Your Full Name
+# Layla Hernandez
 
 Welcome to my personal website! Here you'll find information about my background, projects, and interests.
 
@@ -7,7 +7,7 @@ Welcome to my personal website! Here you'll find information about my background
 ## About Me
 
 I am an undergraduate student in Civil Engineering at the University of Nebraska-Lincoln.  
-My interests include *data analytics*, and `Python programming`.
+My interests include transportation engineering and `Python programming`.
 
 ---
 
@@ -39,9 +39,9 @@ My interests include *data analytics*, and `Python programming`.
 
 ## Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- [GitHub](https://github.com/yourusername)  
-- [Email Me](mailto:yourname@university.edu)
+- [LinkedIn](www.linkedin.com/in/layla-hernandez-665a7b32b)  
+- [GitHub](https://github.com/Layla-Hernandez)  
+- [Email Me](mailto:lhernandez29@huskers.unl.edu)
 
 ---
 
